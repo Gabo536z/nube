@@ -1,0 +1,4 @@
+1. DROP elimina la tabla completamente, TRUNCATE solo elimina los datos.
+2. No se puede eliminar un cliente con ventas por integridad referencial.
+3. Las claves foráneas garantizan coherencia entre tablas.
+4. La normalización reduce redundancia y mejora el diseño de la base de datos.

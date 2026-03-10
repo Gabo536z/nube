@@ -1,0 +1,9 @@
+TALLER SQL – MARCO TEÓRICO
+
+SQL (Structured Query Language) es el lenguaje estándar utilizado para la gestión de bases de datos relacionales.
+
+DDL (Data Definition Language) permite crear y modificar la estructura de la base de datos.
+Comandos principales: CREATE, ALTER, DROP, TRUNCATE.
+
+DML (Data Manipulation Language) permite insertar, consultar, actualizar y eliminar datos.
+Comandos principales: INSERT, SELECT, UPDATE, DELETE.
